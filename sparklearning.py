@@ -9,3 +9,4 @@ if 'SPARK_HOME' not in os.environ:
 SPARK_HOME = os.environ['SPARK_HOME']
 
 print SPARK_HOME
+print ""
